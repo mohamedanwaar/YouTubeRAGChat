@@ -25,8 +25,8 @@ A Streamlit web application that allows you to chat with the content of any YouT
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-rag-chatbot.git
-   cd youtube-rag-chatbot
+   git clone https://github.com/mohamedanwaar/YouTubeRAGChat.git
+   cd YouTubeRAGChat
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
