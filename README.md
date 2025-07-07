@@ -14,7 +14,10 @@ A Streamlit web application that allows you to chat with the content of any YouT
 ---
 
 ## Demo
-![Demo Screenshot](demo_screenshot.png)
+
+![UI Screenshot 1](https://github.com/mohamedanwaar/YouTubeRAGChat/blob/main/Ui_image/imaga1.png)
+
+![UI Screenshot 2](https://github.com/mohamedanwaar/YouTubeRAGChat/blob/main/Ui_image/image.png)
 
 ---
 
@@ -81,6 +84,3 @@ A Streamlit web application that allows you to chat with the content of any YouT
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)
 
 ---
-
-## License
-MIT License 
